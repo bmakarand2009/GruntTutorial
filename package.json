@@ -1,0 +1,31 @@
+{
+  "name": "iconsult",
+  "version": "1.0.0",
+  "description": "grunt js for the frontend client",
+  "main": "index.gsp",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/makrand-bkar/iconsult.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "makarand bkar",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/makrand-bkar/iconsult/issues"
+  },
+  "homepage": "https://github.com/makrand-bkar/iconsult",
+
+ "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.3",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.2",
+    "matchdep": "~0.1.2"
+  }
+
+
+
+}
